@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" role="img" aria-label="Maison Dourada">
+  <!-- Monograma: espiga de trigo em moldura dupla. Substitua por seu logo (SVG ou PNG). -->
+  <g fill="none" stroke="#B8924A">
+    <circle cx="50" cy="50" r="46" stroke-width="1.4"/>
+    <circle cx="50" cy="50" r="41" stroke-width="0.7" stroke="#D4B26A"/>
+    <path d="M50 80V30" stroke-width="1.6" stroke-linecap="round"/>
+    <path d="M50 74c-6-1-11-5-13-11M50 74c6-1 11-5 13-11" stroke-width="1.1" stroke-linecap="round"/>
+  </g>
+  <g fill="#D4B26A">
+    <ellipse cx="50" cy="25" rx="3.4" ry="7"/>
+    <g id="par">
+      <ellipse cx="44.5" cy="35" rx="3.2" ry="7.2" transform="rotate(-32 44.5 35)"/>
+      <ellipse cx="55.5" cy="35" rx="3.2" ry="7.2" transform="rotate(32 55.5 35)"/>
+    </g>
+    <use href="#par" y="9"/>
+    <use href="#par" y="18"/>
+    <use href="#par" y="27"/>
+    <path d="M50 2.5l2.2 2.2-2.2 2.2-2.2-2.2zM50 93.3l2.2 2.2-2.2 2.2-2.2-2.2z"/>
+  </g>
+</svg>
